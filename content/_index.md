@@ -47,6 +47,6 @@ sections:
           - publication
         featured_only: false
     design:
-      view: compact
+      view: list
       columns: 1
 ---
