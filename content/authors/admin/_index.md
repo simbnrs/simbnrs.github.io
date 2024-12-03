@@ -52,9 +52,9 @@ work:
   - position: Lead Data Scientist
     company_name: Kayrros
     company_url: https://kayrros.com/
-    company_logo: ''
+    company_logo: 'https://app.kayrros.com/app/images/icons/144x144.png'
 ---
 
 ## About Me
 
-Hi there! I'm a data scientist at Kayrros, where I apply machine learning and statistics to solve problems related to climate change and the energy transition. My public work mainly consists in academic paper co-authorship. If you feel like you want to collaborate on some topic or have a nice chat on science stuff, please don't hesitate to reach out!
+Hi there! I'm a data scientist at Kayrros, where I apply machine learning and statistics to solve problems related to climate change and the energy transition. My public work mainly consists in academic paper co-authorship. If you feel like you want to collaborate on some topic or have a nice chat on science stuff, don't hesitate to reach out!
