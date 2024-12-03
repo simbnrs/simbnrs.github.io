@@ -52,7 +52,7 @@ work:
   - position: Lead Data Scientist
     company_name: Kayrros
     company_url: https://kayrros.com/
-    company_logo: 'https://app.kayrros.com/app/images/icons/144x144.png'
+    company_logo: https://app.kayrros.com/app/images/icons/144x144.png
 ---
 
 ## About Me
