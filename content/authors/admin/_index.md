@@ -32,8 +32,6 @@ bio: ''
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
-  - icon: brands/github
-    url: https://github.com/simbnrs
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/simon-ben-arous/
   - icon: academicons/google-scholar
