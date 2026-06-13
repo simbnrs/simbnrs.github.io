@@ -431,39 +431,11 @@ img {
 }
 
 /* --- Project Cards --- */
-.project-grid {
-  display: grid;
-  grid-template-columns: 1fr 1fr 1fr;
-  gap: 20px;
-}
-
-.project-card {
-  display: block;
-  background: var(--bg-card);
-  border: 1px solid var(--border);
-  border-radius: var(--radius);
-  padding: 24px;
-  box-shadow: var(--shadow);
-  transition: all 0.2s ease;
-}
-
-.project-card:hover {
-  box-shadow: var(--shadow-hover);
-  transform: translateY(-3px);
-  border-color: var(--accent);
-}
-
-.project-card h3 {
-  font-size: 1.05rem;
-  font-weight: 600;
-  margin-bottom: 8px;
-  color: var(--text-primary);
-}
-
-.project-card p {
-  font-size: 0.85rem;
+.empty-note {
   color: var(--text-muted);
-  line-height: 1.6;
+  font-size: 0.95rem;
+  font-style: italic;
+  padding: 24px 0;
 }
 
 /* --- Footer --- */
